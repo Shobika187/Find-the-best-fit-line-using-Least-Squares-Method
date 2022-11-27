@@ -52,10 +52,15 @@ plt.show()
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/94508142/204132219-cb2e8764-843b-474b-96c2-b3e17bd3ec21.png)
+
 ![image](https://user-images.githubusercontent.com/94508142/204132262-f20560b2-a46e-4fc3-9ad1-bc7ad486e9e4.png)
 
 ![image](https://user-images.githubusercontent.com/94508142/204132304-c7835331-011f-4f0c-afe6-95444baf74e1.png)
+
+
 ![image](https://user-images.githubusercontent.com/94508142/204132470-53d4fcf2-ce45-4d45-a3b2-209790bcee92.png)
+
+
 ![image](https://user-images.githubusercontent.com/94508142/204132483-20066253-3e80-4452-b7da-166ce8a5a3b2.png)
 
 
