@@ -63,6 +63,7 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/94508142/204132483-20066253-3e80-4452-b7da-166ce8a5a3b2.png)
 
+![image](https://user-images.githubusercontent.com/94508142/204132624-94bea2cf-d4f1-4037-b97d-d0606951328a.png)
 
 
 
